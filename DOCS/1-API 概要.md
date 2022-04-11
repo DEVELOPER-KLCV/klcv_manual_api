@@ -2,7 +2,7 @@
 layout: default
 has_children: false
 
-title: 1. API 概要2
+title: 1. API 概要
 nav_order: 1
 ---
 
